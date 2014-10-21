@@ -1,12 +1,11 @@
+Downloading CMIP5 Output from Earth System Grid Federation
+=============================================
 
+### Getting Started
 
-Getting Started
+Follow instructions on [PCMDI Portal](http://cmip-pcmdi.llnl.gov/cmip5/data_getting_started.html)
 
-Obtain an ESGF account & Enroll in a CMIP5 Group
-http://cmip-pcmdi.llnl.gov/cmip5/data_getting_started.html
-
-
-Downloading CMIP5 Files
+### Downloading CMIP5 Files
 
 climatedata: /opt/synchro_data/user_selections
     edit default.txt
