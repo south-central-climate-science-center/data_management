@@ -26,12 +26,10 @@ Packages Needed:
 
 
 #### Yum Install
-
+        sudo yum install gcc libffi-devel python-devel openssl-devel
         sudo yum install sqlite-devel
-        sudo yum install python-devel
         sudo yum install libxslt libxslt-devel
-        sudo yum install openssl-devel 
-
+        
 ####Python Pagckage Installation
 
         virtualenv synchro_data
