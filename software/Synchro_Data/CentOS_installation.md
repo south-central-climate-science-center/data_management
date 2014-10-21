@@ -13,6 +13,7 @@ Follow instruction on [Software Home Page](https://forge.ipsl.jussieu.fr/prodigu
 ####Manual Installation
 
 Packages Needed:
+
 1. sqlite-devel-3.6.20-1.el6.x86_64
 2. python-devel-2.6.6-52.el6.x86_64
 3. libxml2-devel-2.7.6-14.el6_5.2.x86_64
@@ -24,15 +25,18 @@ Packages Needed:
 
 
 #### Yum Install
-<code>sudo yum install python-devel
-sudo yum install libxslt libxslt-devel
-sudo yum install openssl-devel </code>
+<code>
+sudo yum install python-devel<br>
+sudo yum install libxslt libxslt-devel<br>
+sudo yum install openssl-devel <br>
+</code>
 
 ####Python Pagckage Installation
+
 <code>
-virtualenv synchro_data
-source synchro_data/bin/activate
-pip install -r requirements.txt
+virtualenv synchro_data<br>
+source synchro_data/bin/activate<br>
+pip install -r requirements.txt<br>
 <code>
 
 Download Syncro Data Package and install in python virtualenv
