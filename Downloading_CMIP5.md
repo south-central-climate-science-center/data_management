@@ -8,7 +8,9 @@ Follow instructions on [PCMDI Portal](http://cmip-pcmdi.llnl.gov/cmip5/data_gett
 ### Downloading CMIP5 Files
 
 climatedata: /opt/synchro_data/user_selections
+
 edit default.txt
+
 projects=”CMIP5"
 models=”all"
 experiments=”historical rcp26 rcp45 rcp60 rcp85”
