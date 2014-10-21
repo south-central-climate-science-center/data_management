@@ -25,19 +25,16 @@ Packages Needed:
 
 
 #### Yum Install
-<code>
-sudo yum install python-devel<br>
-sudo yum install libxslt libxslt-devel<br>
-sudo yum install openssl-devel <br>
-</code>
+
+        sudo yum install python-devel
+        sudo yum install libxslt libxslt-devel
+        sudo yum install openssl-devel 
 
 ####Python Pagckage Installation
 
-<code>
-virtualenv synchro_data<br>
-source synchro_data/bin/activate<br>
-pip install -r requirements.txt<br>
-<code>
+        virtualenv synchro_data
+        source synchro_data/bin/activate
+        pip install -r requirements.txt
 
 Download Syncro Data Package and install in python virtualenv
 
