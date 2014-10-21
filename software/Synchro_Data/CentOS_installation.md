@@ -47,7 +47,7 @@ Download Syncro Data Package and install in python virtualenv
 5. python setup.py install
 
 
-Final adjust login and config files and setup user selections
+Final adjust login and config files and setup user selections.
 
  
 
