@@ -11,9 +11,9 @@ climatedata: /opt/synchro_data/user_selections
 
 edit default.txt
 
-projects=”CMIP5"
-models=”all"
-experiments=”historical rcp26 rcp45 rcp60 rcp85”
-ensembles=”all”
-variables[*][mon]=”tas pr”
-variables[*][day]=”tas pr”
+* projects=”CMIP5"
+* models=”all"
+* experiments=”historical rcp26 rcp45 rcp60 rcp85”
+* ensembles=”all”
+* variables[*][mon]=”tas pr”
+* variables[*][day]=”tas pr”
