@@ -49,8 +49,6 @@ Download Syncro Data Package and install in python virtualenv
 
 Final adjust login and config files and setup user selections.
 
-Hello Derek is here.
-
  
 
 
