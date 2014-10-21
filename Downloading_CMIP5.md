@@ -30,3 +30,5 @@ climatedata: /opt/synchro_data/user_selections
 * stop the download ◦./stop.sh 
 * downloaded files location ◦$HOME/synchro_data/data 
 
+#### Derek Openid:  
+https://pcmdi9.llnl.gov/esgf-idp/openid/DHRosendahl
