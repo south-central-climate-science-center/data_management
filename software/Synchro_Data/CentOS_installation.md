@@ -11,6 +11,7 @@ CentOS Installation of Python Syncro Data Tool
 Follow instruction on [Software Home Page](https://forge.ipsl.jussieu.fr/prodiguer/wiki/docs/synchro-data)
 
 ####Manual Installation
+See below, Link to [Software Manual Installation Page](http://dods.ipsl.jussieu.fr/jripsl/synchro_data/MANUAL_INSTALL) . I had errors when following this page. I would try below and use the page as extra information.
 
 Packages Needed:
 
@@ -26,6 +27,7 @@ Packages Needed:
 
 #### Yum Install
 
+        sudo yum install sqlite-devel
         sudo yum install python-devel
         sudo yum install libxslt libxslt-devel
         sudo yum install openssl-devel 
@@ -38,9 +40,9 @@ Packages Needed:
 
 Download Syncro Data Package and install in python virtualenv
 
-1. wget http://dods.ipsl.jussieu.fr/jripsl/synchro_data/synchro_data-<APPVERSION>.tar.gz
-2. tar xzvf synchro_data-<APPVERSION>.tar.gz
-3. cd synchro_data-<APPVERSION>
+1. wget http://dods.ipsl.jussieu.fr/jripsl/synchro_data/synchro_data-2.8.tar.gz
+2. tar xzvf synchro_data-2.8.tar.gz
+3. cd synchro_data-2.8
 4. source $HOME/synchro_data/bin/activate
 5. python setup.py install
 
