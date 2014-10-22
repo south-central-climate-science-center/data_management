@@ -35,7 +35,6 @@ climatedata: /opt/synchro_data/user_selections
 * See:  /opt/synchro_data/db
 * Copy synchro_data.db onto local computer
 * Open in Firefox - Tools/SQLite Manager
-* once the program completed, we have the following in $HOME/synchro_data
 
 
 
